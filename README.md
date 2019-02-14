@@ -5,16 +5,9 @@
 
 1. hello world (메인문에 대해 설명, print)
 
--찬경 (개념 조사, 프린트 찍기)
-
 2. 자료형, 변수 , 연산자 
 
--성훈, 다은
-
-3. 제어문 (if, for, while, do while
-)
--채은, 은수, 세연
-
+3. 제어문 (if, for, while, do while)
 
 4. 배열
 
