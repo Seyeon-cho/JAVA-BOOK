@@ -1,7 +1,9 @@
 # JAVA-BOOK
-2019 java Study's book
 
-각자가 문제 한개씩 만들어오기 !!
+
+2019 java Study's book (until 2019's first Semester)
+
+**** Java Book 개요 ****
 
 1. hello world (메인문에 대해 설명, print)
 
@@ -21,10 +23,8 @@
 
 ***********************************************************  편집중...
 
-책 다 만들면
+앞으로 할 것...
 
-생각중인게
+Group project 진행
 
-project 를 하자
-
-web관련된것을 더 배우던가
+web관련 배우기
